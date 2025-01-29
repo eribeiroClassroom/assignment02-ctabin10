@@ -49,8 +49,7 @@
 #    device foo% at bar%
 #
 #       where the % is either a number or a star, which is treated as
-#       a wildcard. The first line enables a device foo that is not
-#       supposed to be "attached" to anything. The second line enables
+#       a wildcard. The first line enables a device foo that is no#       supposed to be "attached" to anything. The second line enables
 #       a device foo that is attached to a device bar. For more
 #       information about what this means, see below.
 #
